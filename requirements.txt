@@ -1,2 +1,4 @@
 ipython
 python-rtmidi
+mido
+adafruit-circuitpython-ble-midi
